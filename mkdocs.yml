@@ -1,0 +1,10 @@
+site_name: CMLA-2018-BalaVarga
+
+nav:
+    - Home: index.md
+    - Classes : ./classes/index.md
+    - Reference: ./reference.md
+    - Projects: ./projects.md
+
+theme: material
+use_directory_urls: true
