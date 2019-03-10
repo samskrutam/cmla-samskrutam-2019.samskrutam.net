@@ -8,3 +8,5 @@ nav:
 
 theme: material
 use_directory_urls: true
+extra_css:
+    - ./css/style.css

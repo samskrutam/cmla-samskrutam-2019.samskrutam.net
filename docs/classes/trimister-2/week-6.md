@@ -27,7 +27,7 @@ Revise the विद्यालयसम्बद्धवस्तूनि wi
 Use the file: [विद्यालयसम्बन्धपदानि revision.pdf](/resources/trimister-2/week-6/विद्यालयसम्बन्धपदानि revision.pdf)  
 
 Revise the vocabulary "वासरः" as they have learnt it last year  
-See the handout [वासरः.pdf](/resources/trimister-2/week-6/वासरः.pdf) <span style="color:red">&lt;&lt;attachment missing&gt;&gt;</span>
+See the handout [वासरः.pdf](/resources/trimister-2/week-7/Days of the week.pdf)
 
 Teach the topic **कः वासरः?**
 

@@ -12,7 +12,7 @@ Once the difference in pronunciation of these four letters are clear, it becomes
 
 Use the file: [diff between क् क कं कः.pdf](/resources/trimister-2/week-5/Difference between क् क कं कः.pdf)
 Teach the how to read words.  
-Use the file: [How to read words.pdf](/resources/trimister-2/week-5/How to read words.pdf) <span style="color:red">&lt;&lt;attachment missing&gt;&gt;</span> to read few words
+Use the file: [How to read words.pdf](/resources/trimister-2/week-6/How to read words.pdf) to read few words
 
 ## लेखनम्
 
@@ -30,7 +30,7 @@ If possible, please take the objects instead of pictures. It is always better to
 
 ## श्रवणम्
 
-Story 7 - [गणेशः - नारदः - आम्रफलम्.pdf](/resources/trimister-2/week-5/गणेशः - नारदः - आम्रफलम्.pdf) <span style="color:red">&lt;&lt;attachment missing&gt;&gt;</span>
+Story 7 - [गणेशः - नारदः - आम्रफलम्.pdf](/resources/trimister-2/week-5/गणेशः – नारदः – आम्रफलम् pictures.pdf)
 
 ## स्मरणम्
 
