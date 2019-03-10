@@ -6,6 +6,8 @@
 
 1. [week-1](./trimister-3/week-1-Feb-24-2019.md)
 1. [week-2](./trimister-3/week-2-Mar-03-2019.md)
+1. [week-3](./trimister-3/week-3-Mar-10-2019.md)
+
 
 
 ## Trimister - 2
